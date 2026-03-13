@@ -167,6 +167,8 @@ Note: Some terms use transliteration (음차) while others use actual Korean tra
 | course        | 과정        | Actual translation                                                      |
 
 
+
+
 ### Parsing Note
 
 Note: "parser" is translated as 분석기, but "parsing" is typically transliterated as 파싱.
